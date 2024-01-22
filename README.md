@@ -16,7 +16,7 @@
 <h2>📌 <samp>What I've Done</samp></h2>
 
 - <samp>Previously a Soft Dev at <a href="https://www.tenetq.com/">Q by Tenet <a/> </samp>
-- <samp>Previously a Soft Dev at <a href="https://learnwithengram.com/">Engram <a/> </samp>
+- <samp>Previously a Soft Dev at <a href="https://learnwithengram.com/">Q by Tenet <a/> </samp>
 
 <h2><samp>My Languages and Tools</samp></h2>
 
