@@ -8,6 +8,7 @@
 - <samp>Currently a SWE Intern at <a href="https://www.octavate.io/">Octavate</a></samp>
 
 <h2>🌱 <samp>What I'm Learning</samp></h2>
+
 - <samp>Linear Algebra and Differential Equations</samp>
 - <samp>Gradient Boosting Decision Trees</samp>
 
