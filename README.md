@@ -8,12 +8,13 @@
 - <samp>Currently a SWE Intern at <a href="https://www.octavate.io/">Octavate</a></samp>
 
 <h2>🤔<samp>What I'm Learning</samp></h2>
+- Linear Algebra and Differential Equations
+- Gradient Boosting Decision Trees
 
 <h2>📌<samp>What I've Done</samp></h2>
 
 - <samp>Previously a Soft Dev at <a href="https://www.tenetq.com/">Q by Tenet <a/> </samp>
-- <samp>Previously a Dev Intern at <a href="https://learnwithengram.com/"> Engram <a/> </samp>
-
+- <samp>Previously a Soft Dev at <a href="https://learnwithengram.com/">Engram <a/> </samp>
 
 <h2><samp>My Languages and Tools</samp></h2>
 
