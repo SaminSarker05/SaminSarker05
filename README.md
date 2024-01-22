@@ -11,6 +11,7 @@
 
 - <samp>Linear Algebra and Differential Equations</samp>
 - <samp>Gradient Boosting Decision Trees</samp>
+- <samp>AWS Cloud Practitioner Certification</samp>
 
 <h2>📌 <samp>What I've Done</samp></h2>
 
