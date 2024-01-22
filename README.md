@@ -1,6 +1,6 @@
 <h1><samp>Hello World! 👋</samp></h1>
 
-<samp>I use this github for personal projects in Software Engineering, Data Science, and Machine Learning.</samp>
+<samp>I use this github for personal projects in SWE, DS, and ML. Reach me @saminsarker05@gmail.com</samp>
 
 <h2>🌀 <samp>Right Now!</samp></h2>
 
@@ -21,7 +21,7 @@
 <h2><samp>My Languages and Tools</samp></h2>
 
 <p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" /> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
