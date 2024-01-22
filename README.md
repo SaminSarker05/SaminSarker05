@@ -2,12 +2,16 @@
 
 <samp>I use this github for personal projects in Software Engineering, Data Science, and Machine Learning.</samp>
 
+<h1><samp>Right Now!</samp></h1>
+
 - <samp>Currently a student at NYU persuing a dual degree in CS and Applied Math</samp>
 - <samp>Currently a SWE Intern at <a href="https://www.octavate.io/">Octavate</a></samp>
+
+<h1><samp>What I've Done</samp></h1>
 
 - <samp>Previously a Soft Dev at <a href="https://www.tenetq.com/">Q by Tenet<a/></samp>
 - <samp>Previously a Dev Intern at <a href="https://learnwithengram.com/">Engram<a/></samp>
 
 
-<h3><samp>Languages and Tools:</samp></h3>
+<h3><samp>Languages and Tools</samp></h3>
 
