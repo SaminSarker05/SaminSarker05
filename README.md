@@ -1,6 +1,6 @@
 <h1><samp>Hello World! 👋</samp></h1>
 
-<samp>I use this github for personal projects in SWE, DS, and ML. Reach me @saminsarker05@gmail.com</samp>
+<samp>I use this github for personal projects in SWE, DS, and ML. Reach me @saminsarker05@gmail.com </samp>
 
 <h2>🌀 <samp>Right Now!</samp></h2>
 
