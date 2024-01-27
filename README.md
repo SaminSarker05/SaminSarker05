@@ -2,7 +2,7 @@
 
 <samp>I use this github for personal projects in SWE, DS, and ML. Reach me @saminsarker05@gmail.com </samp>
 
-<samp>![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c) </samp>
+<samp>![](https://komarev.com/ghpvc/?username=saminsarker05&color=1ebbd7) </samp>
 
 <h2>🌀 <samp>Right Now!</samp></h2>
 
