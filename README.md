@@ -7,7 +7,6 @@
 <h2>🌀 <samp>Right Now!</samp></h2>
 
 - <samp>Currently a student at NYU persuing a dual degree in CS and Applied Math</samp>
-- <samp>Currently a SWE Intern at <a href="https://www.octavate.io/">Octavate</a></samp>
 
 <h2>🌱 <samp>What I'm Learning</samp></h2>
 
