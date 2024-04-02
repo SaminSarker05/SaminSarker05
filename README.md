@@ -17,7 +17,7 @@
 <h2>📌 <samp>What I've Done</samp></h2>
 
 - <samp>Previously a Soft Dev at <a href="https://www.tenet.ventures/">TENET Ventures<a/> </samp>
-- <samp>Previously a Soft Dev at <a href="https://learnwithengram.com/"> <samp> Engram </samp> <a/> </samp>
+- <samp>Previously a Front Dev Intern at <a href="https://learnwithengram.com/"> <samp> Engram </samp> <a/> </samp>
 
 <h2><samp>My Languages and Tools</samp></h2>
 
