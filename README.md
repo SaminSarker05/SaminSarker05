@@ -6,7 +6,7 @@
 
 <h2>🌀 <samp>Right Now!</samp></h2>
 
-- <samp>Currently a student at NYU persuing a dual degree in CS and Applied Math</samp>
+- <samp>Currently a student persuing a dual degree in CS and Applied Math</samp>
 
 <h2>🌱 <samp>What I'm Learning</samp></h2>
 
