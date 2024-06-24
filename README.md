@@ -6,18 +6,12 @@
 
 <h2>🌀 <samp>Right Now!</samp></h2>
 
-- <samp>Currently a student persuing a dual degree in CS and Applied Math</samp>
+- <samp>Currently a student persuing a B.A. in Computer Science @ Columbia University</samp>
 
-<h2>🌱 <samp>What I'm Learning</samp></h2>
+<h2>🌱 <samp>What I'm Doing!</samp></h2>
 
-- <samp>Linear Algebra and Differential Equations</samp>
-- <samp>Gradient Boosting Decision Trees</samp>
-- <samp>AWS Cloud Practitioner Certification</samp>
-
-<h2>📌 <samp>What I've Done</samp></h2>
-
-- <samp>Previously a Software Engineer Intern at <a href="https://www.tenet.ventures/">TENET Ventures<a/> </samp>
-- <samp>Previously a Software Engineer Intern at <a href="https://learnwithengram.com/"> <samp> Engram </samp> <a/> </samp>
+- <samp>Working on my 7day7Project Sprint</samp>
+- <samp>Mastering DSA and Algo through Leetcode and CodeForces</samp>
 
 <h2><samp>My Languages and Tools</samp></h2>
 
