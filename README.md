@@ -10,7 +10,7 @@
 
 <h2>🌱 <samp>What I'm Doing!</samp></h2>
 
-- <samp>Working on my 7day7Project Sprint</samp>
+- <samp>Fellow with Meta and MLH</samp>
 - <samp>Mastering DSA and Algo through Leetcode and CodeForces</samp>
 
 <h2><samp>My Languages and Tools</samp></h2>
