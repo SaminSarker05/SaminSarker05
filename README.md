@@ -11,7 +11,7 @@
 <h2>🌱 <samp>What I'm Doing!</samp></h2>
 
 - <samp>Fellow with Meta and MLH</samp>
-- <samp>Mastering DSA and Algo through Leetcode and CodeForces</samp>
+- <samp>Mastering DSA and Algo through Leetcode</samp>
 
 <h2><samp>My Languages and Tools</samp></h2>
 
