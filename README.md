@@ -7,7 +7,7 @@
 <h2>🌀 <samp>Right Now!</samp></h2>
 
 - <samp>Summer 2025 Software Engineer Intern @ Google </samp>
-- <samp>Rising Junior persuing a bachelors in Computer Science @ Columbia University</samp>
+- <samp>Rising Junior pursuing a bachelors in Computer Science @ Columbia University</samp>
 
 <h2><samp>My Languages and Tools</samp></h2>
 
